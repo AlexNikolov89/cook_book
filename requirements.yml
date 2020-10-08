@@ -1,0 +1,7 @@
+name: recipes
+dependencies:
+  - python=3.6
+  - pip:
+      - django==3.0.3
+      - djangorestframework==3.12.1
+      - djangorestframework-simplejwt==4.4.0
